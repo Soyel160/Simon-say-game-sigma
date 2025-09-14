@@ -1,0 +1,43 @@
+body {
+    text-align:center;
+    background-color: rgb(7, 7, 46);
+    color:beige
+}
+
+#stBtn {
+    height: 50px;
+    width:5%;
+    background-color: rgb(208, 221, 26);
+    border-radius: 20%;
+    font-weight:200;
+}
+.btn {
+    height:200px;
+    width:200px;
+    border-radius: 20%;
+    border:10px solid black;
+    margin:10px;
+}
+.btn-container {
+    display:flex;
+    justify-content: center;
+    
+}
+.red {
+background-color: #970a34;
+}
+.yellow {
+    background-color:#e87408;
+}
+.green {
+    background-color: #0bc233;
+}
+.blue {
+    background-color:#072b95 ;
+}
+.flash {
+ background-color: white;
+}
+.userflash{
+    background-color: rgb(228, 28, 174);
+}
